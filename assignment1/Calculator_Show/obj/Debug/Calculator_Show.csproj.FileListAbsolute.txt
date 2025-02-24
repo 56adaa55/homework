@@ -1,0 +1,10 @@
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\bin\Debug\Calculator_Show.exe.config
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\bin\Debug\Calculator_Show.exe
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\bin\Debug\Calculator_Show.pdb
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\obj\Debug\Calculator_Show.csproj.AssemblyReference.cache
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\obj\Debug\Calculator_Show.Form1.resources
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\obj\Debug\Calculator_Show.Properties.Resources.resources
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\obj\Debug\Calculator_Show.csproj.GenerateResource.cache
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\obj\Debug\Calculator_Show.csproj.CoreCompileInputs.cache
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\obj\Debug\Calculator_Show.exe
+C:\Users\lzy\source\repos\ConsoleApp1\Calculator_Show\obj\Debug\Calculator_Show.pdb
