@@ -38,6 +38,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.lblResult = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // caculator
@@ -86,11 +87,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(259, 82);
+            this.label2.Location = new System.Drawing.Point(248, 81);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(62, 18);
+            this.label2.Size = new System.Drawing.Size(71, 18);
             this.label2.TabIndex = 6;
-            this.label2.Text = "运算符";
+            this.label2.Text = " 运算符";
             // 
             // label3
             // 
@@ -119,11 +120,21 @@
             this.lblResult.TabIndex = 9;
             this.lblResult.Text = "            ";
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(233, 99);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(98, 18);
+            this.label5.TabIndex = 10;
+            this.label5.Text = " (+ - * /)";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(898, 450);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -153,6 +164,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label lblResult;
+        private System.Windows.Forms.Label label5;
     }
 }
 
