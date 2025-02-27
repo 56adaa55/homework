@@ -1,0 +1,7 @@
+C:\Users\lzy\source\repos\assignment2\IntArray\bin\Debug\IntArray.exe.config
+C:\Users\lzy\source\repos\assignment2\IntArray\bin\Debug\IntArray.exe
+C:\Users\lzy\source\repos\assignment2\IntArray\bin\Debug\IntArray.pdb
+C:\Users\lzy\source\repos\assignment2\IntArray\obj\Debug\IntArray.csproj.AssemblyReference.cache
+C:\Users\lzy\source\repos\assignment2\IntArray\obj\Debug\IntArray.csproj.CoreCompileInputs.cache
+C:\Users\lzy\source\repos\assignment2\IntArray\obj\Debug\IntArray.exe
+C:\Users\lzy\source\repos\assignment2\IntArray\obj\Debug\IntArray.pdb
