@@ -1,0 +1,7 @@
+C:\Users\lzy\source\repos\assignment2\Get_prime\bin\Debug\Get_prime.exe.config
+C:\Users\lzy\source\repos\assignment2\Get_prime\bin\Debug\Get_prime.exe
+C:\Users\lzy\source\repos\assignment2\Get_prime\bin\Debug\Get_prime.pdb
+C:\Users\lzy\source\repos\assignment2\Get_prime\obj\Debug\Get_prime.csproj.AssemblyReference.cache
+C:\Users\lzy\source\repos\assignment2\Get_prime\obj\Debug\Get_prime.csproj.CoreCompileInputs.cache
+C:\Users\lzy\source\repos\assignment2\Get_prime\obj\Debug\Get_prime.exe
+C:\Users\lzy\source\repos\assignment2\Get_prime\obj\Debug\Get_prime.pdb
