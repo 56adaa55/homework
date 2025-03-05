@@ -1,7 +1,0 @@
-C:\Users\lzy\source\repos\assignment2\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe.config
-C:\Users\lzy\source\repos\assignment2\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe
-C:\Users\lzy\source\repos\assignment2\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.pdb
-C:\Users\lzy\source\repos\assignment2\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.csproj.AssemblyReference.cache
-C:\Users\lzy\source\repos\assignment2\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
-C:\Users\lzy\source\repos\assignment2\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.exe
-C:\Users\lzy\source\repos\assignment2\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.pdb
