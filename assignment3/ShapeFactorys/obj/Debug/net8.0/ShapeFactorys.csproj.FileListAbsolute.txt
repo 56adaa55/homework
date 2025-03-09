@@ -1,0 +1,14 @@
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\bin\Debug\net8.0\ShapeFactorys.exe
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\bin\Debug\net8.0\ShapeFactorys.deps.json
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\bin\Debug\net8.0\ShapeFactorys.runtimeconfig.json
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\bin\Debug\net8.0\ShapeFactorys.dll
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\bin\Debug\net8.0\ShapeFactorys.pdb
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\ShapeFactorys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\ShapeFactorys.AssemblyInfoInputs.cache
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\ShapeFactorys.AssemblyInfo.cs
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\ShapeFactorys.csproj.CoreCompileInputs.cache
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\ShapeFactorys.dll
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\refint\ShapeFactorys.dll
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\ShapeFactorys.pdb
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\ShapeFactorys.genruntimeconfig.cache
+C:\Users\lzy\source\repos\assignment3\ShapeFactorys\obj\Debug\net8.0\ref\ShapeFactorys.dll
