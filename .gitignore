@@ -9,7 +9,8 @@
 .vscode/
 .idea/
 
-# 忽略 bin 和 obj 文件夹
-/bin/
-/obj/
+# 忽略所有 bin 和 obj 文件夹，无论它们位于哪一层级
+**/bin/
+**/obj/
+
 
