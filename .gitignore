@@ -1,0 +1,15 @@
+# 忽略所有 .obj 文件
+*.obj
+
+# 忽略所有 .bin 文件
+*.bin
+
+# 忽略 Visual Studio 的临时文件
+.vs/
+.vscode/
+.idea/
+
+# 忽略 bin 和 obj 文件夹
+/bin/
+/obj/
+
